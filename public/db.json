@@ -1,0 +1,29 @@
+{
+  "kontaks": [
+    {
+      "id": 1,
+      "name": "Andi Ihsan",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "Andi Hamsah",
+      "age": 22
+    },
+    {
+      "id": 3,
+      "name": "Andi Rahmat",
+      "age": 14
+    },
+    {
+      "id": 4,
+      "name": "Andi Aisyah",
+      "age": 8
+    },
+    {
+      "id": 5,
+      "name": "Umamah",
+      "age": "21"
+    }
+  ]
+}
